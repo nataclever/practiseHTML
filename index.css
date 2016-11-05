@@ -1,27 +1,29 @@
     head
 {
-    max-width: 1200px;
-    min-width: 400px;
-    height: 10px;
+    max-width: 1000px;
+    min-width: 10px;
+    height: 96px;
     margin: 0 auto;
     display: inline-block;
     text-align: justify;
-    font-family:  }
+    font-family: 
     
     h1
     {
         font-family: 'Quicksand', sans-serif;
-        font-size: 84px;
+        font-size: 96px;
+        margin: 0 auto;
          background-color: gray;
              font-weight: bold;
-             font-style: ;
-         
+             padding-left: inherit;
+         color: white;
     }
     
     h2
     {
     font-family: 'Quicksand', sans-serif;
         font-size: 72px;
+        
     }
     }
     body {
@@ -32,18 +34,18 @@
     float: left;
     padding: 16px;
     background-color: black;
-    width: ;
+   text: white;
 }
     ul#menu
     {
         width: 1000px;
         hight: 50px;
     position: relative;
-    padding: 10px;
+    padding: 0 auto;
     list-style: inline-block;
-    display: inline;
+    display: block;
     background: black;
-    list-style-type: cjk-ideographic;
+    list-style-type: armenian;
     margin: 0 auto;
     padding: 10px;
     font-family: 'Quicksand', sans-serif;
@@ -52,7 +54,24 @@
     position: inline;
     
 }
-nav {
+p {margin: 0 auto
+    width:100%;
+}
     
-    
-} 
+    .figure
+    {
+        float: left;
+        padding: 16px;
+         width: 800px;
+             display: block;
+             list-style: inline-block;
+             text: white;
+    }
+div{
+    display: block;
+}
+.nav{
+    position:absolute;
+    left: 32%;
+    top:35;
+}
