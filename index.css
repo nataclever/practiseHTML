@@ -1,12 +1,58 @@
-header {
-    max-width: 1000px;
-    min-width: 500px;
-    height: 150px;
-    background-color: green;
+    head
+{
+    max-width: 1200px;
+    min-width: 400px;
+    height: 10px;
     margin: 0 auto;
+    display: inline-block;
+    text-align: justify;
+    font-family:  }
+    
+    h1
+    {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 84px;
+         background-color: gray;
+             font-weight: bold;
+             font-style: ;
+         
+    }
+    
+    h2
+    {
+    font-family: 'Quicksand', sans-serif;
+        font-size: 72px;
+    }
+    }
+    body {
+    background-image: url(/img/world map.jpg);
+    font-family: Quicksand; 
+    }
+    li {
+    float: left;
+    padding: 16px;
+    background-color: black;
+    width: ;
 }
-ul {
-    list-style-type: georgian;
-    margin: 0;
-    padding: 0;
+    ul#menu
+    {
+        width: 1000px;
+        hight: 50px;
+    position: relative;
+    padding: 10px;
+    list-style: inline-block;
+    display: inline;
+    background: black;
+    list-style-type: cjk-ideographic;
+    margin: 0 auto;
+    padding: 10px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 32px;
+    text-decoration: none;
+    position: inline;
+    
 }
+nav {
+    
+    
+} 
